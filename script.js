@@ -11,7 +11,6 @@
 // @copyright Unlicense
 // ==/UserScript==
 
-// https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/
 (function(d, w) {
   'use strict';
 
