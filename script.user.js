@@ -9,6 +9,7 @@
 // @grant none
 // @run-at document-end
 // @copyright IPFMO
+// @license-url https://raw.githubusercontent.com/moongazer07/emuparadise-workaround/main/LICENSE
 // ==/UserScript==
 
 (function(d, w) {
