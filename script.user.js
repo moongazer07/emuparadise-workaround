@@ -8,7 +8,7 @@
 // @match https://www.emuparadise.me/*
 // @grant none
 // @run-at document-end
-// @copyright Unlicense
+// @copyright IPFMO
 // ==/UserScript==
 
 (function(d, w) {
