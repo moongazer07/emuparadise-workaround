@@ -2,7 +2,7 @@
 
 # **Open Source Transition Licence (OSTL)**
 
-### Version 1.0, January 2025
+### Version 1.0, may 2025
 
 ---
 
